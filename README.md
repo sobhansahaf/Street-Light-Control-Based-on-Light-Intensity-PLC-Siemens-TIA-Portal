@@ -1,6 +1,7 @@
 The system can control the on/off status of the lights based on light intensity levels (lumens) or the presence of vehicles and pedestrians. 
 The goal is to enhance energy efficiency and improve road safety. 
 This system utilizes a comparator function to control the lighting. 
+
 Mode Selection: Set the selector switch to the “Normal” or “Power Saving” position to select the desired mode.
 
 Normal Mode:
