@@ -6,7 +6,9 @@ Mode Selection: Set the selector switch to the “Normal” or “Power Saving�
 
 Normal Mode:
 Light Measurement: The light sensor measures the surrounding brightness level in real-time.
+
 Lumen Level: The light level is measured in lumens.
+
 Light Adjustment:
 If the lumen is less than 30: All 4 lights turn On.
 If the lumen is between 31-60: 2 lights turn On.
